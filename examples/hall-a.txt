@@ -1,0 +1,11 @@
+# Lecture Hall A: a 10-row raked floor facing a 1.5 m high stage target
+name = Lecture Hall A
+rows = 10
+seats_per_row = 24
+target_height = 1500
+target_distance = 6000
+row_pitch = 900
+eye_height = 1100
+eye_to_head = 120
+clearance = 120
+max_riser = 600

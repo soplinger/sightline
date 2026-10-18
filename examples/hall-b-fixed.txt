@@ -1,0 +1,13 @@
+# Hall B: rows 2-9 use the solved minimum, but row 6 is a hand-built 400 mm step
+name = Hall B (fixed step at row 6)
+rows = 9
+seats_per_row = 18
+target_height = 1500
+target_distance = 5500
+row_pitch = 850
+eye_height = 1100
+eye_to_head = 120
+clearance = 120
+max_riser = 600
+
+row 6 riser = 400

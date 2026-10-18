@@ -1,0 +1,11 @@
+# A room file with mistakes, to show line-numbered errors
+name = Broken Hall
+rows = ten
+target_height = 1500
+target_distance = 6000
+row_pitch = 900
+eye_height = 1100
+clearnace = 120
+row 1 riser = 200
+row 4 riser = fast
+clearance = 150
